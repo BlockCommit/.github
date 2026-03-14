@@ -5,7 +5,8 @@
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.io/)
-[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/)
+[![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/)
+[![TurboWarp](https://img.shields.io/badge/TurboWarp-1.15.0+-ff4c4c?style=for-the-badge&logo=go&logoColor=white)](https://turbowarp.org)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 
 *Native version control and collaboration for Scratch/TurboWarp projects, built on Gitea.*
